@@ -1,0 +1,5 @@
+baseurl = "http://steakgames.com/"
+title = "Steak Games"
+languageCode = "en-us"
+theme = "hemingway"
+
