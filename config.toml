@@ -1,3 +1,5 @@
 baseurl = "http://replace-this-with-your-hugo-site.com/"
-title = "My New Hugo Site"
+title = "Steak Games"
 languageCode = "en-us"
+theme = "hemingway"
+
