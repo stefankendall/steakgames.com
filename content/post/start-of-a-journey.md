@@ -8,7 +8,7 @@ draft = false
 Games are built in stages. In my case, the stages are like watching a belligerent duck stagger drunkenly across a gravel road.
 
 <video style="width:100%" controls autoplay loop>
-  <source src="/start-of-a-journey/demo.mp4" type="video/mp4">
+  <source src="/files/demo1.mp4" type="video/mp4">
 </video>
 
 This may *look* like a dumpster fire, but I'd consider it more of a controlled burn. It went something like this:
