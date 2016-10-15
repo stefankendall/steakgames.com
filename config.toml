@@ -1,5 +1,12 @@
 baseurl = "http://steakgames.com/"
 title = "Steak Games"
 languageCode = "en-us"
-theme = "hemingway"
+theme = "hyde"
 
+[Author]
+    name = "Stefan Kendall"
+
+[Params]
+    description = "Making stuff that doesn't suck (hopefully)"
+    layoutReverse = true
+    themeColor = "theme-base-0d"
