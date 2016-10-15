@@ -5,7 +5,9 @@ draft = false
 
 +++
 
-Games are built in stages. In my case, the stages are like watching a belligerent duck stagger drunkenly across a gravel road.
+Games are built in stages. 
+
+For me, the stages are like watching a belligerent duck stagger drunkenly across a gravel road.
 
 <video style="width:100%" controls autoplay loop>
   <source src="/files/demo1.mp4" type="video/mp4">
