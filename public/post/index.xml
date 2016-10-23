@@ -6,8 +6,35 @@
     <description>Recent content in Post-rsses on Steak Games</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Oct 2016 12:44:40 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 23 Oct 2016 06:31:22 -0400</lastBuildDate>
     <atom:link href="http://steakgames.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>if it looks like a duck</title>
+      <link>http://steakgames.com/post/if-it-looks-like-a-duck/</link>
+      <pubDate>Sun, 23 Oct 2016 06:31:22 -0400</pubDate>
+      
+      <guid>http://steakgames.com/post/if-it-looks-like-a-duck/</guid>
+      <description>&lt;p&gt;Just a weekly progress update. This is the first time this app has ever looked like a game.
+Landing on top of coins isn&amp;rsquo;t exactly intentional, and the physics need tweaking, and every curved surface is just a rectangular block you run into&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;But progress is progress.&lt;/p&gt;
+
+&lt;p&gt;Hot new features:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Jumping&lt;/li&gt;
+&lt;li&gt;Not exploding into space when attempting to move&lt;/li&gt;
+&lt;li&gt;A reset button&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;video style=&#34;width:100%&#34; controls autoplay loop&gt;
+  &lt;source src=&#34;http://steakgames.com/files/demo10232016.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+
+&lt;p&gt;Dare I say GOTY 2017?&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>start of a journey</title>
