@@ -6,8 +6,34 @@
     <description>Recent content in Post-rsses on Steak Games</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Oct 2016 06:31:22 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 14 Nov 2016 21:04:39 -0500</lastBuildDate>
     <atom:link href="http://steakgames.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>menus and testing</title>
+      <link>http://steakgames.com/post/menus/</link>
+      <pubDate>Mon, 14 Nov 2016 21:04:39 -0500</pubDate>
+      
+      <guid>http://steakgames.com/post/menus/</guid>
+      <description>&lt;p&gt;While I&amp;rsquo;ve been grinding and grinding on movement development, I wired up some neat menus for testing.&lt;/p&gt;
+
+&lt;p&gt;Super neat.&lt;/p&gt;
+
+&lt;video style=&#34;width:100%&#34; controls autoplay loop&gt;
+  &lt;source src=&#34;http://steakgames.com/files/demo11142016.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+  
+
+&lt;hr /&gt;
+
+&lt;p&gt;With a fast level selector, I should be able to test movement in more 
+and varied environments quite a bit quicker. I thought I could figure 
+this out on a test level or two, but that&#39;s just not the case. 
+As it turns out, movement is really, really hard to get right.&lt;/p&gt;
+
+&lt;p&gt;I have some ideas for how I can make this into something that&amp;rsquo;s not blander than wheat-bran, but it needs testing. Lots and lots of testing.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>if it looks like a duck</title>
